@@ -6,6 +6,8 @@
 
 **Do** include tests for your change when appropriate.
 
+**Do** ensure that the CI checks pass.
+
 **Do** squash the commits in your PR to remove corrections
 irrelevant to the code history, after the code in the PR has been
 accepted.
