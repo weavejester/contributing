@@ -4,6 +4,8 @@
 
 **Do** follow [the Clojure Style Guide][2].
 
+**Do** wrap lines at 80 characters.
+
 **Do** include tests for your change when appropriate.
 
 **Do** ensure that the CI checks pass.
