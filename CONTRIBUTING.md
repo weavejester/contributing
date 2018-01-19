@@ -17,6 +17,8 @@ accepted.
 **Do** feel free to pester the repository owner about the PR if it
 hasn't been responded to. Sometimes notifications can be missed.
 
+**Don't** use more than one blank line in a row.
+
 **Don't** include more than one feature or fix in a single PR.
 
 **Don't** include changes unrelated to the purpose of the PR. This
