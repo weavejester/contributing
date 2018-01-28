@@ -11,7 +11,7 @@
 **Do** squash the commits in your PR to remove corrections
 irrelevant to the code history, once the PR has been reviewed.
 
-**Do** feel free to pester the repository owner about the PR if it
+**Do** feel free to pester the project maintainers about the PR if it
 hasn't been responded to. Sometimes notifications can be missed.
 
 **Don't** overuse vertical whitespace; avoid multiple sequential blank
