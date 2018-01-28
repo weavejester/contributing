@@ -9,13 +9,13 @@
 **Do** ensure that the CI checks pass.
 
 **Do** squash the commits in your PR to remove corrections
-irrelevant to the code history, after the code in the PR has been
-accepted.
+irrelevant to the code history, once the PR has been reviewed.
 
 **Do** feel free to pester the repository owner about the PR if it
 hasn't been responded to. Sometimes notifications can be missed.
 
-**Don't** use more than one blank line in a row.
+**Don't** overuse vertical whitespace; avoid multiple sequential blank
+lines.
 
 **Don't** include more than one feature or fix in a single PR.
 
